@@ -1,5 +1,7 @@
-# acse-5-assignment-morpheus
+# Linear Solvers Package
 acse-5-assignment-morpheus created by GitHub Classroom
+
+C++ class for implementation of several solvers for dense and sparse linear systems.
 
 Team Members: Karim Bacchus, Andika Hakim, Wisit Promrak. 
 
