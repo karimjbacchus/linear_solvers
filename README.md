@@ -45,5 +45,5 @@ The optional parameters `max_iter` and `tol` can be used to set the maximum numb
 
 <br>
 
-![Morpheus](https://github.com/acse-2019/acse-5-assignment-morpheus/blob/master/morpheus.jpg?raw=true)
+![Morpheus](https://github.com/karimjbacchus/linear_solvers/blob/master/morpheus.jpg?raw=true)
 
